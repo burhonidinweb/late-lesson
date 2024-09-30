@@ -1,0 +1,15 @@
+.hres:hover{
+background: #fff;
+transform: scale(1.1);
+border-radius: 15px;
+transition: all 0.5s ease-in-out 0s;
+}
+.hres{
+    transition: all 0.5s ease-in-out 0s;
+    width: 256px;
+    border-radius: 12px;
+}
+.header__img{
+    background-image: url(assets/back);
+    background-repeat: no-repeat;
+}
